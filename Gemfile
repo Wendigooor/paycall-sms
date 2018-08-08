@@ -2,7 +2,7 @@ source "http://rubygems.org"
 
 gem 'httparty', '~> 0.10.2'
 gem 'builder', '~> 2.1'
-gem 'nokogiri', '~> 1.5.10'
+gem 'nokogiri' # , '~> 1.5.10'
 gem 'uuidtools', '~> 2.1'
 gem 'logging', '~> 1.7'
 gem 'activesupport', '~> 3.0.9'
